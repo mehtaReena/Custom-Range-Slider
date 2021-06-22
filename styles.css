@@ -33,7 +33,7 @@ body {
     align-items: center;
 }
 
-.circle {
+.dragger {
     position: absolute;
     right: 0;
     height: 20px;

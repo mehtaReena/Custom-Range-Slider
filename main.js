@@ -1,5 +1,5 @@
 const fillEl = document.querySelector('.fill')
-const circleEl = document.querySelector('.circle')
+const circleEl = document.querySelector('.dragger')
 const value = document.querySelector('.value')
 const sliderEl = document.querySelector('.slider')
 let x = 0;
